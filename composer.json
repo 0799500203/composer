@@ -1,0 +1,16 @@
+{
+    "name": "lib/binh",
+    "description": "des",
+    "authors": [{
+        "name": "Nguyen Van Binh",
+        "email": "nvhr714kzb@gmail.com"
+    }],
+    "require": {
+        "monolog/monolog": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "XuanthuLab\\": "src/"
+        }
+    }
+}
